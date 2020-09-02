@@ -3,7 +3,7 @@ public class Test1 {
 	private int a=10;
 	public void func(int n)
 	{
-	 n=10;
+	 int n1=10;
 	}
 public static void main(String args[])
 {
