@@ -1,11 +1,8 @@
-
 public class Test1 {
 	
-	public void func(int n)
+	public void func()
 	{
 	 int n1=10;
-	 System.out.println(n);
-	 System.out.println(n1);
 	}
 public static void main(String args[])
 {
@@ -15,10 +12,6 @@ public static void main(String args[])
 	{
 		System.out.println("False");
 	}
-	else
-		{
-		Test1 obj = new Test1();
-	obj.func(20);
-		}
 }
 }
+
