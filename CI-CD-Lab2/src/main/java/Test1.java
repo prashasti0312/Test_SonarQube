@@ -10,7 +10,7 @@ public static void main(String args[])
 	System.out.println("Hello SonarQube");
 	if(b==10)
 	{
-		System.out.println("False");
+		System.out.println("Incorrect");
 	}
 }
 }
